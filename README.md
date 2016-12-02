@@ -1,0 +1,2 @@
+# AccessiblityService
+这是定制视图的可访问性的一个拓展，因为视图View内部都实现了AccessiblityEventSource接口，所以我们可以利用一些app的可访问性，实现某些自动操作（如点击）功能
