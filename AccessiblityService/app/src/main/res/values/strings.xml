@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AccessiblityService</string>
+    <string name="open_qq">自动打开QQ</string>
+    <string name="open_desc">当有qq消息时，会自动打开QQ</string>
 </resources>
